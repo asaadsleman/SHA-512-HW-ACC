@@ -1,0 +1,4 @@
+^C:\USERS\AWSLE\DESKTOP\WOLFSSL-5.5.4\WOLFCRYPT\SRC\AES_ASM.ASM
+ml64.exe /c /Zi /Fo"C:\Users\awsle\Desktop\wolfssl-5.5.4\Debug\x64\aes_asm.obj" wolfcrypt\src\aes_asm.asm
+^C:\USERS\AWSLE\DESKTOP\WOLFSSL-5.5.4\WOLFCRYPT\SRC\SP_X86_64_ASM.ASM
+ml64.exe /c /Zi /Fo"C:\Users\awsle\Desktop\wolfssl-5.5.4\Debug\x64\sp_x86_64_asm.obj" wolfcrypt\src\sp_x86_64_asm.asm
